@@ -1,0 +1,24 @@
+{
+  "name": "koa-session-unless",
+  "version": "1.0.0",
+  "description": "This module lets you authenticate HTTP requests using koa-session in your Koa (node.js) applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sothx/koa-session-unless.git"
+  },
+  "keywords": [
+    "koa",
+    "session",
+    "middleware"
+  ],
+  "author": "sothx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sothx/koa-session-unless/issues"
+  },
+  "homepage": "https://github.com/sothx/koa-session-unless#readme"
+}
