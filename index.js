@@ -5,7 +5,6 @@ async function isUnLess(ctx, next, unless,callback) {
   if (JSON.stringify(ctx.session) === '{}' && !onUnless) {
     callback(ctx)
   } else {
-    console.log(onUnless,'onUnless')
     await next()
   }
 }
