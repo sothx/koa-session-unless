@@ -1,6 +1,6 @@
 {
   "name": "koa-session-unless",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This module lets you authenticate HTTP requests using koa-session in your Koa (node.js) applications.",
   "main": "index.js",
   "scripts": {

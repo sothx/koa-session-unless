@@ -11,7 +11,7 @@ npm install koa-session-unless koa-session --save
 
 The koa-session authentication middleware authenticates callers using a session,you can conditionally run the `koa-session-unless` middleware under certain conditions.
 
-Alternatively you can conditionally run the `jwt` middleware under certain conditions:
+Alternatively you can conditionally run the `session` middleware under certain conditions:
 
 ```javascript
 let koa = require('koa');
